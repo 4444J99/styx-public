@@ -1,0 +1,8 @@
+/Users/4jp/Workspace/organvm-iii-ergon/peer-audited--behavioral-blockchain/src/desktop/src-tauri/target/release/deps/serde_with_macros-f2a53c7d029a42fe.d: /Users/4jp/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.17.0/src/lib.rs /Users/4jp/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.17.0/src/apply.rs /Users/4jp/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.17.0/src/lazy_bool.rs /Users/4jp/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.17.0/src/utils.rs
+
+/Users/4jp/Workspace/organvm-iii-ergon/peer-audited--behavioral-blockchain/src/desktop/src-tauri/target/release/deps/libserde_with_macros-f2a53c7d029a42fe.dylib: /Users/4jp/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.17.0/src/lib.rs /Users/4jp/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.17.0/src/apply.rs /Users/4jp/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.17.0/src/lazy_bool.rs /Users/4jp/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.17.0/src/utils.rs
+
+/Users/4jp/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.17.0/src/lib.rs:
+/Users/4jp/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.17.0/src/apply.rs:
+/Users/4jp/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.17.0/src/lazy_bool.rs:
+/Users/4jp/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.17.0/src/utils.rs:

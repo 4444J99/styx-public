@@ -1,0 +1,9 @@
+/Users/4jp/Workspace/organvm-iii-ergon/peer-audited--behavioral-blockchain/src/desktop/src-tauri/target/release/deps/objc2_security-e0b2e002fb3c8b59.d: /Users/4jp/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-security-0.3.2/src/lib.rs /Users/4jp/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-security-0.3.2/src/generated/mod.rs /Users/4jp/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-security-0.3.2/src/generated/SecTrust.rs
+
+/Users/4jp/Workspace/organvm-iii-ergon/peer-audited--behavioral-blockchain/src/desktop/src-tauri/target/release/deps/libobjc2_security-e0b2e002fb3c8b59.rlib: /Users/4jp/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-security-0.3.2/src/lib.rs /Users/4jp/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-security-0.3.2/src/generated/mod.rs /Users/4jp/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-security-0.3.2/src/generated/SecTrust.rs
+
+/Users/4jp/Workspace/organvm-iii-ergon/peer-audited--behavioral-blockchain/src/desktop/src-tauri/target/release/deps/libobjc2_security-e0b2e002fb3c8b59.rmeta: /Users/4jp/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-security-0.3.2/src/lib.rs /Users/4jp/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-security-0.3.2/src/generated/mod.rs /Users/4jp/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-security-0.3.2/src/generated/SecTrust.rs
+
+/Users/4jp/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-security-0.3.2/src/lib.rs:
+/Users/4jp/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-security-0.3.2/src/generated/mod.rs:
+/Users/4jp/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/objc2-security-0.3.2/src/generated/SecTrust.rs:
