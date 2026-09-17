@@ -10,9 +10,7 @@
   "scripts": {
     "build": "turbo run build",
     "dev": "node scripts/dev/app-stack.mjs",
-    "dev:api": "node scripts/dev/run-api.mjs",
     "dev:web": "node scripts/dev/run-web.mjs",
-    "dev:migrate": "node scripts/dev/run-migrate.mjs",
     "dev:turbo": "turbo run dev",
     "test": "turbo run test",
     "load-test": "node scripts/load-test/run-load-tests.mjs",
@@ -36,7 +34,6 @@
     "demo:capture:tour": "node scripts/demo/capture-tour-fallback.mjs",
     "demo:capture:rehearsal": "bash scripts/demo/capture-signed-in-rehearsal.sh",
     "lint": "turbo run lint",
-    "validate:claims": "node scripts/validation/07-claim-drift-check.js",
     "format": "prettier --write \"**/*.{ts,tsx,md}\"",
     "clean": "turbo run clean && rm -rf node_modules",
     "test:e2e": "npx playwright test --config=.config/playwright/playwright.config.ts",
